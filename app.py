@@ -75,10 +75,11 @@ def get_goal(title: str, objective: str) -> str:
                     Q3: Average burn rate is over 80%
                     Q4: Average burn rate of 80% achieved
 
-                    You're manager has given you the following high-level objectives which you need to use to create a SMART goal for 2023:
+                    You're manager has given you the following high-level objectives which you need to use to create a corresponding SMART goal for each of them for 2023:
                     {objective}
 
-                    Return the SMART goals, measurement approach, measurement scale, target date, and possible milestones with all these goals separated with newlines, as in the example output given above for each high-level objective listed.
+                    Return the SMART goals for the high-level objectives from the manager.
+                    List the goal and it's number, measurement approach, measurement scale, target date, and possible milestones with all these goals separated with newlines, as in the example output given above for each high-level objective listed.
                 ''',
             },
         ],
