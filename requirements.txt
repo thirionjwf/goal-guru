@@ -1,0 +1,9 @@
+gradio
+pandas
+config
+pre-commit
+toml
+black
+flake8
+isort
+openai
