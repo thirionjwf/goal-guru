@@ -132,3 +132,5 @@ dmypy.json
 config.txt
 company_objectives.csv
 goals.txt
+.sonar_lock
+report-task.txt

@@ -116,7 +116,6 @@ def main():
     print(company_objectives.info())
 
     get_interface().launch(share=False)
-    return
 
 
 main()
