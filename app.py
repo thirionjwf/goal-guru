@@ -115,7 +115,7 @@ def main():
     company_objectives = pd.read_csv("company_objectives.csv")
     print(company_objectives.info())
 
-    get_interface().launch(share=False)
+    get_interface().launch(share=True)
 
 
 main()
