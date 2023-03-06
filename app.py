@@ -58,7 +58,7 @@ def get_goal(title: str, objective: str) -> str:
                     1. You need to achieve a delivery objective where you will get a team score from the Agile Sprint burn rate for the team. A good aim for a burn rate in the 2-week Sprint is 80-85%. The measure will be the average over all Sprints for the year.
 
                     I need you to return for each high-level input objective, an output that looks like the following:
-                    GOAL:
+                    GOAL: 1
                     Achieve an 80% burn rate on average over all Sprints, by Q4, to improve our ability to deliver projects on-time.
                     MEASUREMENT:
                     Use the JIRA burn down report to calculate the burn rate and calculate the average burn rate for the year.
