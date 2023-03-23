@@ -19,7 +19,7 @@ This is a [gradio](https://gradio.app/) web application that uses Whisper and Ch
 8. Activate the Python virtual environment with `source .venv/bin/activate`, or `deactivate` to exit.
 9. Install pre-requisites (run `pip install -r requirements.txt`):
 ```
-pip install --upgrade pip∏
+pip install --upgrade pip
 pip install gradio
 pip install pandas
 pip install config
