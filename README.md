@@ -9,7 +9,7 @@ Goal-setting and performance contracts are dreaded by employees and managers ali
 This is a [gradio](https://gradio.app/) web application that uses Whisper and ChatGPI APIs from [OpenAI](https://openai.com/).
 
 ## Getting started
-1. Ensure `git` and `python` (version 3.6+) is installed.
+1. Ensure `git` and `python` (version 3.6+) are installed.
 2. Clone this project with `git clone git@github.com:thirionjwf/goal-guru.git`.
 3. Sign up for an account at [OpenAI](https://platform.openai.com/).
 4. Create an [API key](https://platform.openai.com/account/api-keys).
