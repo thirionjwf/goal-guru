@@ -6,7 +6,7 @@ The Goal Guru application has the objective of helping you create SMART goals, f
 Goal-setting and performance contracts are dreaded by employees and managers alike. It is a slow process, and often is neglected. Goals then tend to be vague, with no clear measurements and outcomes. Consistency between the goals of different individuals remain a challenge. Performance reviews are then meaningless and good and bad performance can not be measured meaningfully. As a result, the benefit of improving performance over time, and addressing problem areas, are neglected. In order not to do work without any meaning, goal-setting itself needs to be useful and have a clear business outcome and benefit.
 
 ## Design
-This is a [gradio](https://gradio.app/) web application that uses Whisper and ChatGPI APIs from [OpenAI](https://openai.com/).
+This is a [gradio](https://gradio.app/) web application that uses Whisper and ChatGPT APIs from [OpenAI](https://openai.com/).
 
 ## Getting started
 1. Ensure `git` and `python` (version 3.6+) are installed.
